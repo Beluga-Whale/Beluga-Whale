@@ -30,7 +30,7 @@
 ###
 
 <div align="left">
-  <a href="Halay#2116" target="_blank">
+  <a href="https://discordapp.com/users/748140866245492818/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="40" alt="discord logo"  />
   </a>
   <a href="https://www.facebook.com/Thanathat159/" target="_blank">
