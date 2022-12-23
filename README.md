@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I started studying web development in late 2021. I started studying web development in early 2022, learning HTML CSS JS, and then using ReactJS.<br>📚 I'm currently learning about <br>state management using Redux Toolkit, CSS Framework, and Back-end Nodejs, Express, MongoDB<br>🎯 Goals: I want to be a Full-Stack</p>
+<p align="left">✨ I started studying web development in late 2021. I started studying web development in early 2022, learning HTML CSS JS, and then using ReactJS.<br>📚 I'm currently learning about <br>state management using Redux Toolkit, CSS Framework, Typescript and Back-end Nodejs, Express, MongoDB<br>🎯 Goals: I want to be a Front-end</p>
 
 ###
 
@@ -22,12 +22,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" width="52" alt="tailwindcss logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" alt="redux logo"  />
 </div>
 
 ###
@@ -45,4 +46,3 @@
 </div>
 
 ###
-Profile Readme Generator
